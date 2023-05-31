@@ -1,0 +1,13 @@
+vm1 & vm2-> setting ->setting-> network ->natnetwork
+tools -> prefrences -> network ->change name
+
+ifconfig                                                ifconfig
+ping (ip)                                               ls
+ls                                                      pwd
+touch transfer.txt                                      ls
+nano transfer.txt                                       cat transfer.txt
+nano (write so)                                         
+cat transfer.txt                                        
+scp transfer.txt vagrant@(ip):/home/vagrant
+  yes
+  ps
